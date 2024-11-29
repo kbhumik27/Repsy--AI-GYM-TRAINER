@@ -9,7 +9,10 @@ Here’s a revamped and more visually appealing version of your README with impr
 ---
 
 ## 🎥 **Demo Video**  
-<iframe src="https://drive.google.com/file/d/18mc_RGM92VRY5RlLIdKz73s7q6SLJECX/preview" width="640" height="360" allow="autoplay"></iframe>  
+<a href="https://drive.google.com/file/d/18mc_RGM92VRY5RlLIdKz73s7q6SLJECX/view?usp=sharing" target="_blank">
+  Click here to view the file
+</a>
+
 
 ---
 
