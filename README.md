@@ -1,42 +1,95 @@
-REPSY - AI Gym Trainer
-https://drive.google.com/file/d/18mc_RGM92VRY5RlLIdKz73s7q6SLJECX/view?usp=gmail
 
-Problem Statement
-REPSY addresses several common challenges faced by individuals pursuing fitness goals:
+---
 
-Difficulty in Tracking Progress: Users often struggle to monitor their progress effectively. REPSY integrates with wearable technology and tracks achievements, making it easier for users to see their improvements.
-Inaccessibility of Professional Guidance: Many users lack access to professional trainers. REPSY acts as a virtual trainer, providing guidance, motivation, and support anytime and anywhere.
-Lack of Inclusivity: Fitness solutions are not always inclusive. REPSY ensures that fitness is accessible to a broader range of people, accommodating various needs and capabilities.
-Proposed Solution
-REPSY is an AI/ML-based fitness trainer that utilizes OpenCV and pose estimation to deliver the following features:
+# REPSY - AI Gym Trainer
 
-Exercise Repetition Counting: Automatically counts the number of repetitions performed during exercises.
-Technique Evaluation: Measures angles to assess exercise technique and ensure correct form.
-Form Checking: Provides feedback on the user’s exercise form to prevent injuries and improve effectiveness.
-Abstract
-REPSY is an AI-driven gym instructor leveraging TensorFlow and MediaPipe to perform tasks such as:
+**REPSY** is a cutting-edge AI-driven fitness trainer designed to make fitness accessible, inclusive, and effective for everyone. Leveraging advanced technologies like TensorFlow, MediaPipe, and OpenCV, REPSY offers personalized fitness guidance and real-time feedback to help users achieve their goals.
 
-Pose Recognition: Instantly recognizes and analyzes the user's pose.
-Custom Diet Plans: Generates personalized diet plans based on user data.
-Tailored Workout Routines: Creates workout routines tailored to individual fitness goals and progress.
-Form Feedback: Offers real-time feedback on exercise form.
-Progress Monitoring: Keeps track of user progress and achievements.
-The system directs users through exercises, refines techniques, monitors advancements, and maintains enthusiasm. REPSY features an interactive user interface (UI) developed using HTML, CSS, and JavaScript.
+---
 
-Tech Stack
-Frontend:
+## 📌 **Problem Statement**
 
-HTML
-CSS
-JavaScript
-Backend:
+Fitness journeys are often hindered by these common challenges:
 
-Flask (for serving the ML model)
-UI/UX:
+1. **Difficulty in Tracking Progress**  
+   Users struggle to monitor their achievements effectively. REPSY integrates with wearable technology to track milestones and showcase improvements.
 
-Designed using Figma
-AI/ML:
+2. **Inaccessibility of Professional Guidance**  
+   Lack of access to trainers limits progress. REPSY acts as a virtual coach, delivering expert guidance anytime, anywhere.
 
-TensorFlow (for ML model)
-MediaPipe (for pose estimation)
-OpenCV (for video processing)
+3. **Lack of Inclusivity**  
+   Fitness solutions are often not inclusive. REPSY accommodates diverse needs and capabilities, ensuring everyone can pursue their fitness goals.
+
+---
+
+## 💡 **Proposed Solution**
+
+**REPSY** is an AI/ML-powered virtual trainer offering the following features:
+
+- **Exercise Repetition Counting**: Tracks repetitions automatically.
+- **Technique Evaluation**: Assesses angles for proper exercise form.
+- **Form Feedback**: Provides real-time suggestions to avoid injuries.
+- **Progress Monitoring**: Keeps users updated on their journey.
+
+---
+
+## ✨ **Key Features**
+
+1. **Pose Recognition**  
+   Powered by TensorFlow and MediaPipe, REPSY instantly analyzes user poses.  
+
+2. **Custom Diet Plans**  
+   Generates diet plans based on user data and fitness objectives.  
+
+3. **Tailored Workout Routines**  
+   Adapts exercises to individual fitness levels and goals.  
+
+4. **Real-time Form Feedback**  
+   Ensures effective and injury-free workouts.  
+
+5. **Progress Tracking**  
+   Monitors improvements and maintains user motivation.
+
+---
+
+## 🛠 **Tech Stack**
+
+### Frontend:
+- **HTML**
+- **CSS**
+- **JavaScript**
+
+### Backend:
+- **Flask** (to serve the ML model)
+
+### AI/ML:
+- **TensorFlow** (for ML model)
+- **MediaPipe** (for pose estimation)
+- **OpenCV** (for video processing)
+
+### UI/UX:
+- Designed using **Figma**
+
+---
+
+## 🎥 **Demo Video**  
+[Click here to watch the demo video](https://drive.google.com/file/d/18mc_RGM92VRY5RlLIdKz73s7q6SLJECX/view?usp=gmail)
+
+---
+
+## 🚀 **How REPSY Works**
+
+1. **User Interaction**: Users interact through an intuitive UI.
+2. **Pose Detection**: The system recognizes poses via MediaPipe.
+3. **Feedback Mechanism**: Offers real-time feedback on form and technique.
+4. **Tailored Recommendations**: Suggests exercises and diets based on progress.
+
+---
+
+## 📈 **Future Scope**
+
+- Integration with smart devices for enhanced tracking.
+- AI-driven injury prevention insights.
+- Multi-language support for broader inclusivity.
+
+---
