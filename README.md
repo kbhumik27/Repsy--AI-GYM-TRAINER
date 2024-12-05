@@ -1,4 +1,3 @@
-Here’s a revamped and more visually appealing version of your README with improved structure, formatting, and visual elements. Emojis, headers, and formatting are used to make it more engaging:
 
 ---
 
@@ -7,7 +6,8 @@ Here’s a revamped and more visually appealing version of your README with impr
 **REPSY** is your AI-powered fitness companion, designed to revolutionize your workout experience. With advanced AI technologies like TensorFlow, MediaPipe, and OpenCV, it provides personalized guidance, real-time feedback, and progress tracking to help you achieve your fitness goals effectively.
 
 ---
-
+##  **APP link**
+https://fashion-mnist-classifier-tn3yev286enej8dfn5zcr3.streamlit.app/
 ## 🎥 **Demo Video**  
 <a href="https://drive.google.com/file/d/18mc_RGM92VRY5RlLIdKz73s7q6SLJECX/view?usp=sharing" target="_blank">
   Click here to view the file
