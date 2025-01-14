@@ -3,7 +3,7 @@
 
 # 🏋️‍♂️ **REPSY - AI Gym Trainer**  
 
-**REPSY** is your AI-powered fitness companion, designed to revolutionize your workout experience. With advanced AI technologies like TensorFlow, MediaPipe, and OpenCV, it provides personalized guidance, real-time feedback, and progress tracking to help you achieve your fitness goals effectively. built on intel processors
+*REPSY* is your AI-powered fitness companion, designed to revolutionize your workout experience. Built using Intel processors and advanced AI technologies like TensorFlow, MediaPipe, and OpenCV, it offers personalized guidance, real-time feedback, and progress tracking to help you achieve your fitness goals effectively.**REPSY** is your AI-powered fitness companion, designed to revolutionize your workout experience. With advanced AI technologies like TensorFlow, MediaPipe, and OpenCV, it provides personalized guidance, real-time feedback, and progress tracking to help you achieve your fitness goals effectively. built on intel processors
 
 ---
 
