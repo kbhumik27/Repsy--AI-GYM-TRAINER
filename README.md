@@ -1,6 +1,4 @@
-Here’s a GitHub README structure prioritizing **Intel Extensions** and emphasizing their role in optimizing the **REPSY** AI Gym Trainer project:
 
----
 
 # **REPSY - AI Gym Trainer**  
 
