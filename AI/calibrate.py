@@ -1,6 +1,11 @@
 from flask import Flask, render_template, Response
 import cv2
 import mediapipe as mp
+import tensorflow as tf
+import intel_extension_for_tensorflow as itex  # Import ITEX for optimization
+
+# Enable ITEX optimizations
+tf.config.optimizer.set_jit(True)  # Enable XLA JIT compilation
 
 app = Flask(__name__)
 
